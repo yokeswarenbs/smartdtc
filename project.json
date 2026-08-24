@@ -1,0 +1,19 @@
+{
+  "overview": "A professional frontend-only DTC public-transport operations dashboard for automated bus scheduling and route management, powered by clearly-labelled local demo data.",
+  "features": [
+    "Collapsible sidebar navigation with Dashboard, Buses, Crew, Scheduling, Routes, Road Conditions and Reports",
+    "Dashboard with KPI cards, bus utilization and crew status charts, today's schedule and operational alerts",
+    "Bus management with search, filter, add/edit modal and status badges",
+    "Crew management with search, filter, add/edit and crew detail view",
+    "Linked Duty scheduling with availability checks and duty preview",
+    "Unlinked Duty with duty timelines and validating handover form"
+  ],
+  "category": "productivity",
+  "tags": [
+    "transport",
+    "operations",
+    "dashboard",
+    "scheduling"
+  ],
+  "last_updated": "2026-08-24T15:26:12.334Z"
+}
